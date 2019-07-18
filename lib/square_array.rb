@@ -3,4 +3,5 @@ def square_array(array)
   while array[idx]
     array[idx] *= array[idx]
     idx += 1 
+  end
 end
