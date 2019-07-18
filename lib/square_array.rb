@@ -4,5 +4,4 @@ def square_array(array)
     array[idx] *= array[idx]
     idx += 1 
   end
-  array
 end
